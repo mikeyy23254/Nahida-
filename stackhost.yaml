@@ -1,0 +1,8 @@
+version: 1. 0
+environment:
+  - TELEGRAM_BOT_TOKEN: 6385138741:AAFQVKsqMOlHq5EWgVF5KSZvaSEn2ZZvhEY
+  - TELEGRAM_CHAT_ID: -1001739122591
+dependencies:
+  - python
+  - pip
+  - telegram-bot-simple
